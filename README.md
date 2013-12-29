@@ -4,12 +4,12 @@
 
 ## 安装
 
-```
+```shell
 	npm install dbank-share-download
 ```
 
 ## 使用
-```
+```js
 var share = require("dbank-share-download");
 var url = "http://dl.vmall.com/c0436f5b6h";
 share(url).then(function(urls){
