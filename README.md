@@ -5,7 +5,7 @@
 ## 安装
 
 ```shell
-	npm install dbank-share-download
+npm install dbank-share-download
 ```
 
 ## 使用
