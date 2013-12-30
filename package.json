@@ -1,7 +1,7 @@
 {
   "name": "dbank-share-download",
   "description": "华为网盘分享文件实际地址分析和下载",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "welefen",
     "email": "welefen@gmail.com"
