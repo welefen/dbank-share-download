@@ -1,6 +1,6 @@
 ## 介绍
 
-华为网盘分享文件实际地址分析和下载，比如：分析 http://dl.vmall.com/c0436f5b6h 页面里分享的地址并可以自动下载里面的文件。
+华为网盘分享页文件下载，比如：分析 http://dl.vmall.com/c0436f5b6h 页面里分享的文件地址并下载。
 
 ## 安装
 
@@ -20,7 +20,7 @@ share.download("http://dl.dbank.com/c0s5q53e0a", "./1/").then(function(){
 
 share.download(url, dest);
 
-url为华为分享页的URL，dest文件下载后存放的目录。
+url为华为网盘分享页的URL，dest文件下载后存放的目录。
 
 ## 其他
 
